@@ -19,7 +19,7 @@ body {
   letter-spacing: 0.1em;
 }
 #header a:hover {
-  color: #222;
+  color: #c0c0c0;
 }
 #header-title {
   display: block;
@@ -85,7 +85,18 @@ h1, h2, h3, h4 {
 p {
   line-height: 1.5;
 }
-
+.projects-title {
+  text-align:center;
+  font-size: 20px;
+  text-transform: uppercase;
+  text
+}
+.projects-content img {
+  max-width: 30%;
+  vertical-align: middle;
+  margin-right: 30px;
+  margin-bottom: 30px
+}
 
 #footer {
   background-color: #2f2f2f;
@@ -105,9 +116,9 @@ p {
   color: white;
 }
 a {
-  color: #6f6f6f;
+  color: #c0c0c0;
   text-decoration: none;
 }
 a:hover {
-  color: #F6A523;
+  color: #ffffff;
 }
