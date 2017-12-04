@@ -85,6 +85,9 @@ h1, h2, h3, h4 {
 p {
   line-height: 1.5;
 }
+.post-content a:hover {
+  color: darkred;
+}
 .projects-title {
   text-align:center;
   font-size: 20px;
